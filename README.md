@@ -1,4 +1,5 @@
 📊 Customer Shopping Behavior Analysis (Product + Data Project)
+
 🔍 Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segmentation, and product preferences.
@@ -66,11 +67,13 @@ User Segmentation
 Data Analysis
 Dashboard Development
 Business Insights
+
 🔹 User Stories
 Segment users into categories
 Analyze revenue trends
 Build Power BI dashboard
 Generate business recommendations
+
 🔹 Workflow
 
 Tasks were tracked across stages:
